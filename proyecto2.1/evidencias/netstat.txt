@@ -1,0 +1,42 @@
+Active Connections
+
+Proto  Local Address          Foreign Address        State          PID
+TCP    0.0.0.0:80             0.0.0.0:0              LISTENING      708
+TCP    0.0.0.0:135            0.0.0.0:0              LISTENING      4
+TCP    0.0.0.0:445            0.0.0.0:0              LISTENING      4
+TCP    0.0.0.0:2103           0.0.0.0:0              LISTENING      1284
+TCP    0.0.0.0:2105           0.0.0.0:0              LISTENING      1284
+TCP    0.0.0.0:2107           0.0.0.0:0              LISTENING      1284
+TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING      632
+TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING      396
+TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING      760
+TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING      920
+TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING      1284
+TCP    0.0.0.0:49156          0.0.0.0:0              LISTENING      464
+TCP    0.0.0.0:49157          0.0.0.0:0              LISTENING      1932
+TCP    0.0.0.0:49158          0.0.0.0:0              LISTENING      472
+TCP    127.0.0.1:1801         0.0.0.0:0              LISTENING      1284
+TCP    192.168.1.163:139      0.0.0.0:0              LISTENING      4
+TCP    192.168.1.163:49260    10.28.5.1:53           SYN_SENT       860
+TCP    [::]:80                [::]:0                 LISTENING      708
+TCP    [::]:135               [::]:0                 LISTENING      4
+TCP    [::]:445               [::]:0                 LISTENING      4
+TCP    [::]:2103              [::]:0                 LISTENING      1284
+TCP    [::]:2105              [::]:0                 LISTENING      1284
+TCP    [::]:2107              [::]:0                 LISTENING      1284
+TCP    [::]:3389              [::]:0                 LISTENING      632
+TCP    [::]:49152             [::]:0                 LISTENING      396
+TCP    [::]:49153             [::]:0                 LISTENING      760
+TCP    [::]:49154             [::]:0                 LISTENING      920
+TCP    [::]:49155             [::]:0                 LISTENING      1284
+TCP    [::]:49156             [::]:0                 LISTENING      464
+TCP    [::]:49157             [::]:0                 LISTENING      1932
+TCP    [::]:49158             [::]:0                 LISTENING      472
+TCP    [::1]:1801             [::]:0                 LISTENING      1284
+UDP    0.0.0.0:123            *:* 296
+UDP    0.0.0.0:500            *:* 920
+UDP    0.0.0.0:4500           *:* 920
+UDP    0.0.0.0:5355           *:* 632
+UDP    192.168.1.163:137      *:* 4
+UDP    192.168.1.163:138      *:* 4
+UDP    [::]:123               *:* 296
